@@ -3,7 +3,7 @@
   <h3 align="center">Expo Memory Game</h3>
 
   <p align="center">
-    A memory game build with Expo
+    A memory game for mobile
     <br />
     <br />
     <a href="https://snack.expo.dev/@renatozr/expo-memory-game">View Demo</a>
